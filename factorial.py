@@ -24,3 +24,9 @@ print(f"\nFactorial of {num1} = {factorial1}")
 print(f"Factorial of {num2} = {factorial2}")
 print(f"Factorial of {num3} = {factorial3}")
 
+
+#changes from anand
+print("\nChanges made by Anand")
+
+#changes by bindu
+print("\nchanges made by bindu")
