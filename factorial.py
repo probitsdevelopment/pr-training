@@ -12,14 +12,15 @@ def calculate_factorial(n):
 # Input two numbers
 num1 = int(input("Enter first number: "))
 num2 = int(input("Enter second number: "))
+num3 = int(input("Enter 3rd number: "))
 
 # Calculate factorials
 factorial1 = calculate_factorial(num1)
 factorial2 = calculate_factorial(num2)
+factorial3 = calculate_factorial(num3)
 
 # Display results
 print(f"\nFactorial of {num1} = {factorial1}")
 print(f"Factorial of {num2} = {factorial2}")
-
-
+print(f"Factorial of {num3} = {factorial3}")
 
